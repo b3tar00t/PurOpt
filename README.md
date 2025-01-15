@@ -54,5 +54,31 @@ Upon running the tool, you will be prompted to choose between the following opti
 
 Enter a Single URL: Provide a single URL to check.
 Use a File of URLs: Provide a text file containing a list of URLs.
-You'll also be prompted to specify a timeout and the number of threads to use, and you can choose whether to test for the PURGE method.
+You'll also be prompted to specify a timeout and the number of threads to use, and you can choose whether to test for the **PURGE** method.
+
+## Results Format
+
+The results will be displayed in a neat format, showing the **OPTIONS** response and optionally the **PURGE** method status for each URL. 
+
+Here’s an example of how the results may look:
+
+![Example Results Image](path_to_results_image.png)
+
+---
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Author
+
+**Creator:** b3tar00t
+
+---
+
+## Contributing
+
+Feel free to fork the repository, open issues, or submit pull requests. Contributions are always welcome!
 
