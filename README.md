@@ -62,7 +62,7 @@ The results will be displayed in a neat format, showing the **OPTIONS** response
 
 Here’s an example of how the results may look:
 
-![Example Results Image](path_to_results_image.png)
+![Example Results Image](https://github.com/b3tar00t/PurOpt/blob/main/img/output.png)
 
 ---
 
