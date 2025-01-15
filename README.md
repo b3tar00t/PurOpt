@@ -24,7 +24,7 @@ PurOpt is an advanced HTTP method checker and cache purger tool designed for cyb
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/PurOpt
+git clone https://github.com/b3tar00t/PurOpt
 cd PurOpt
 ```
 
