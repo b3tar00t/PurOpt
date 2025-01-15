@@ -4,7 +4,7 @@
 
 PurOpt is an advanced HTTP method checker and cache purger tool designed for cybersecurity enthusiasts, penetration testers, and web administrators. It allows users to scan URLs for various HTTP methods, including OPTIONS and PURGE, helping identify vulnerabilities related to cache purging and server configurations. It provides valuable insights to ensure your server is secure and operates as expected.
 
-![PurOpt Banner](https://ibb.co/f1sVFM9)
+![PurOpt Banner](https://pasteboard.co/pKbWi9VqPGZC.png)
 
 ## Features
 
