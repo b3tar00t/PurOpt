@@ -19,6 +19,15 @@ PurOpt is an advanced HTTP method checker and cache purger tool designed for cyb
 
 ## Installation
 
+### 1. Clone the Repository
+
+First, clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/yourusername/PurOpt
+cd PurOpt
+```
+
 ### Prerequisites
 Ensure you have **Python 3.x** installed on your machine. You also need to install the following dependencies:
 
@@ -39,4 +48,11 @@ pip install -r requirements.txt
 Once the installation is complete, you can run **PurOpt** via the command line:
 
 ```bash
-python puropt.py
+python3 puropt.py
+```
+Upon running the tool, you will be prompted to choose between the following options:
+
+Enter a Single URL: Provide a single URL to check.
+Use a File of URLs: Provide a text file containing a list of URLs.
+You'll also be prompted to specify a timeout and the number of threads to use, and you can choose whether to test for the PURGE method.
+
