@@ -24,6 +24,7 @@ Ensure you have **Python 3.x** installed on your machine. You also need to insta
 
 ```bash
 pip install -r requirements.txt
+```
 ## Requirements
 
 - `requests`: For making HTTP requests.
