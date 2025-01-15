@@ -24,3 +24,18 @@ Ensure you have **Python 3.x** installed on your machine. You also need to insta
 
 ```bash
 pip install -r requirements.txt
+## Requirements
+
+- `requests`: For making HTTP requests.
+- `colorama`: For colored terminal output.
+- `threading`: For multi-threaded execution.
+- `queue`: For thread-safe queues.
+
+## Usage
+
+### Run the Tool
+
+Once the installation is complete, you can run **PurOpt** via the command line:
+
+```bash
+python puropt.py
